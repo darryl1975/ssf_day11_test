@@ -6,4 +6,4 @@ mvnw spring-boot:run -Dspring-boot.run.arguments="--dataDir=c:\data"
 ## Maven compile run test
 mvnw clean test -Dspring-boot.run.arguments="--dataDir=c:\data"
 
-## Addtional info
+## Additional info
